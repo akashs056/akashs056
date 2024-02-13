@@ -1,4 +1,4 @@
-
+<img src="https://github.com/akashs056/akashs056/blob/main/banner.jpg" style="width: 100%;" alt="logo">
 <h1 align="center">Hi 👋, I'm Akash 😊</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
