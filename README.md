@@ -1,4 +1,5 @@
-![image](https://github.com/akashs056/akashs056/assets/152642367/93d5c76f-a2a5-4077-b39e-4b35840b2f35)<h1 align="center">Hi 👋, I'm Akash 😊</h1>
+
+<h1 align="center">Hi 👋, I'm Akash 😊</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
 <img align="right" alt="Android Dev" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
