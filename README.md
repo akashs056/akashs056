@@ -1,5 +1,5 @@
 <img src="https://github.com/akashs056/akashs056/blob/main/Akash%20S.png" style="width: 100%;" alt="logo">
-<h1 align="center">Heyy 👋, I'm Akash 😊</h1>
+<h1 align="center">Hei👋, I'm Akash 😊</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
 <img align="right" alt="Android Dev" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
