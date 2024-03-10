@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@passionofcoding" target="blank"><img src="https://img.shields.io/twitter/follow/@passionofcoding?logo=twitter&style=for-the-badge" alt="@passionofcoding" /></a> </p>
 
-- 🔭 I’m currently working on [BlinkIt Clone](https://github.com/akashs056/BlinkIt-CLone)
+- 🔭 I’m currently working as a intern @[AiVirex Innovations](https://aivirex.in/)
 
 - 🌱 I’m currently learning **JetPack Compose, MVVM and Dependency Injection**
 
