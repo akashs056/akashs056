@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **akash.subramanian.12@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZbCYCoe8PeuqyBZJ7aZJRbSD8z3NjELD/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1S0ttaa_J_0MYcN49gMKxJ8ny4z9iI2yc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
