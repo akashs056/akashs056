@@ -4,7 +4,7 @@
 
 <img align="right" alt="Android Dev" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
-<p align="left"> <a href="https://twitter.com/@passionofcoding" target="blank"><img src="https://img.shields.io/twitter/follow/@passionofcoding?logo=twitter&style=for-the-badge" alt="@passionofcoding" /></a> </p>
+<p align="left"> <a href="" /></a> </p>
 
 - 🔭 I’m currently working as a intern @[AiVirex Innovations](https://aivirex.in/)
 
